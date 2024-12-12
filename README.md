@@ -47,12 +47,17 @@ To develop a predictive model to classify companies as bankrupt or non-bankrupt 
 
 **Repository Structure**
 
-├── data/                # Dataset and related files
-├── notebooks/           # Jupyter notebooks for analysis
-├── src/                 # Python scripts for preprocessing, modeling, and evaluation
-├── visualizations/      # Plots and graphs generated during EDA and modeling
-├── reports/             # Detailed analysis report and presentation
-├── README.md            # Project description and details
+├── data/                # Dataset and related files.
+
+├── notebooks/           # Jupyter notebooks for analysis.
+
+├── src/                 # Python scripts for preprocessing, modeling, and evaluation,
+
+├── visualizations/      # Plots and graphs generated during EDA and modeling.
+
+├── reports/             # Detailed analysis report and presentation.
+
+├── README.md            # Project description and details.
 
 **1.Getting Started**
 
