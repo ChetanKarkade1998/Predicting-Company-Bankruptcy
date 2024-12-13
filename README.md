@@ -96,7 +96,11 @@ Jupyter Notebooks for interactive analysis
 **Contact**
 
 For questions or suggestions, feel free to contact:
+
 Chetan Karkade
+
 https://www.linkedin.com/in/chetan-karkade-48a842234/
+
 https://github.com/ChetanKarkade1998/Predicting-Company-Bankruptcy
+
 Email:- chetankarkade@gmail.com
